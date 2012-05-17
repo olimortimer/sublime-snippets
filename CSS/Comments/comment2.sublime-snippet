@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/*-------------------------------
+	
+	${1:GENERAL STYLES}
+
+-------------------------------*/
+]]></content>
+<tabTrigger>css2</tabTrigger>
+</snippet>

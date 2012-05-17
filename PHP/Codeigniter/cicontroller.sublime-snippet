@@ -1,0 +1,21 @@
+<!--| CI CONTROLLER |-->
+<snippet>
+	<content><![CDATA[
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class ${1:class_name} extends MY_Controller {
+
+	function __construct()
+	{
+		parent::__construct();
+	}
+		
+	function index()
+	{
+		${0}
+	}
+}
+]]></content>
+<tabTrigger>cicontroller</tabTrigger>
+<description>CI Controller</description>
+</snippet>
