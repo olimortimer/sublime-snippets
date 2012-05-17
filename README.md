@@ -1,4 +1,4 @@
-sublime-snippets
+Sublime Text 2 Snippets
 ================
 
-Sublime Text 2 Snippets
+Some custom snippets I find useful

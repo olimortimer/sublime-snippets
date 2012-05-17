@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+	<![CDATA[
+
+	echo "<pre>";
+	print_r(${1:func_get_args()});
+	echo "</pre>";
+
+	]]>
+	</content>
+	<tabTrigger>var</tabTrigger>
+	<description>Pretty PrintR</description>
+</snippet>

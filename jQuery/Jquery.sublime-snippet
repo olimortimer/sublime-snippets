@@ -1,0 +1,15 @@
+<snippet>
+	<content>
+	<![CDATA[
+
+	<script>
+		\$(document).ready(function () {
+			$0
+		});
+	</script>
+
+	]]>
+	</content>
+	<tabTrigger>jq</tabTrigger>
+	<description>jQuery Setup</description>
+</snippet>
