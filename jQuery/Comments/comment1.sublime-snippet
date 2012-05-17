@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+//------------------------------------
+//	${TM_FILENAME/.*/\U$0/}
+//	Author:		$TM_FULLNAME
+//	Requires:		$1
+//------------------------------------
+
+//BEGIN jQuery
+\$(function(){
+
+	var mooseBan = false;
+
+	///////////////////
+	//	$2
+
+//END jQuery
+});
+]]></content>
+<tabTrigger>js1</tabTrigger>
+</snippet>
