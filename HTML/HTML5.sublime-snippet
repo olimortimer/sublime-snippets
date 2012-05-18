@@ -1,0 +1,25 @@
+<snippet>
+	<content>
+  	<![CDATA[
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>$1</title>
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="css/$2.css">
+</head>
+<body>
+	<h1>$1</h1>
+	$0
+
+	<script src="js/$3.js"></script>
+</body>
+</html>
+
+	]]>
+	</content>
+  <tabTrigger>html5</tabTrigger>
+  <description>Base HTML5 document</description>
+  <scope>text.html.basic</scope>
+</snippet>
