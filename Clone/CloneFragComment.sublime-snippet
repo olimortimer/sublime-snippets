@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+  	<![CDATA[
+<!--|${1:frag}|-->
+	]]>
+	</content>
+  <tabTrigger>frag</tabTrigger>
+  <description>Clone Frag Calls</description>
+  <scope>text.html.basic</scope>
+</snippet>
