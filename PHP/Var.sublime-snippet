@@ -10,4 +10,5 @@
 	</content>
 	<tabTrigger>var</tabTrigger>
 	<description>Pretty PrintR</description>
+	<scope>source.php</scope>
 </snippet>

@@ -4,7 +4,7 @@
 <!--{${1:class}:${2:function}():${3:fragment}}-->
 	]]>
 	</content>
-  <tabTrigger>com</tabTrigger>
-  <description>Clone Calls</description>
-  <scope>text.html.basic</scope>
+	<tabTrigger>com</tabTrigger>
+	<description>Clone Calls</description>
+	<scope>text.html.basic</scope>
 </snippet>

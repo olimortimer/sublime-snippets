@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+<!--{${1:var}}-->
+	]]>
+	</content>
+	<tabTrigger>var</tabTrigger>
+	<description>Clone Variable</description>
+	<scope>text.html.basic</scope>
+</snippet>
