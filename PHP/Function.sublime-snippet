@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+	<![CDATA[
+
+	${1:private} function ${2:name}(${3:argument}) {
+		${4:content}
+	}
+
+	]]>
+	</content>
+	<tabTrigger>function</tabTrigger>
+	<description>Function</description>
+	<scope>source.php</scope>
+</snippet>

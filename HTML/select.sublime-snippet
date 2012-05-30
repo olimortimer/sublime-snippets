@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+  	<![CDATA[
+<label for="$1">$2</label>
+<select id="$1">
+	<option value="$3">$3</option>
+	<option value="$4">$4</option>
+	<option value="$5">$5</option>
+</select>]]>
+	</content>
+  <tabTrigger>select</tabTrigger>
+  <description>Select Tag</description>
+  <scope>text.html.basic</scope>
+</snippet>
