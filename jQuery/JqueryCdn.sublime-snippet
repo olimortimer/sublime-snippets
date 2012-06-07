@@ -19,7 +19,7 @@
 		    if (\$('.ui-helper-hidden:first').is(':visible') === true) {
 		        \$('<link rel="stylesheet" href="css/jquery-ui-${2:1.8.18}.css" />').appendTo('head');
 		    }
-		});​
+		});
 	</script>
 
 	]]>
