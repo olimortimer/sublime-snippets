@@ -1,8 +1,6 @@
 <snippet>
 	<content>
-	<![CDATA[
-<!--{${1:var}}-->
-	]]>
+	<![CDATA[<!--{${1:var}}-->]]>
 	</content>
 	<tabTrigger>var</tabTrigger>
 	<description>Clone Variable</description>

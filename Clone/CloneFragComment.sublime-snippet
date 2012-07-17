@@ -1,8 +1,6 @@
 <snippet>
 	<content>
-  	<![CDATA[
-<!--|${1:frag}.html|-->
-	]]>
+  	<![CDATA[<!--|${1:frag}.html|-->]]>
 	</content>
 	<tabTrigger>frag</tabTrigger>
 	<description>Clone Frag Calls</description>
