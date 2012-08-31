@@ -9,11 +9,20 @@ Some custom snippets I find useful
 	<tr><th>Tab trigger</th>
 	<th>Description</th></tr>
 	<tr><td>html5</td>
-	<td>Create html5 document</td></tr>
+	<td>Create blank HTML5 document</td></tr>
+	<tr><td>select</td>
+	<td>Create blank select dropdown</td></tr>
 </table>
 
 ### JavaScript snippets
- - jQuery CDN setup, with "tab and type" to specify jQuery and jQuery UI versions.  This includes fallback for the JS and CSS files.
+<table>
+	<tr><th>Tab trigger</th>
+	<th>Description</th></tr>
+	<tr><td>cdn</td>
+	<td>Create jQuery and jQuery UI CDN markup</td></tr>
+	<tr><td>jq</td>
+	<td>Create jQuery blank $(document).ready function</td></tr>
+</table>
 
 ### Clone snippets
  - Quick class / function / template snippets for an internal CMS system
