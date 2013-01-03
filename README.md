@@ -24,9 +24,6 @@ Some custom snippets I find useful
 	<td>Create jQuery blank $(document).ready function</td></tr>
 </table>
 
-### Clone snippets
- - Quick class / function / template snippets for an internal CMS system
-
 ## Installation
 - To install one snippet: drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
 - To install all snippets: drop the entire directories "html" and "javascript" in [Sublime Text 2 installation directory]/Packages/User/.
