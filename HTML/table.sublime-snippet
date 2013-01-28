@@ -1,0 +1,23 @@
+<snippet>
+	<content>
+  	<![CDATA[
+<table>
+	<tr>
+		<th>${1:Month}</th>
+		<th>${2:Total}</th>
+	</tr>
+	<tr>
+		<td>${3:January}</td>
+		<td>${4:£100}</td>
+	</tr>
+	<tr>
+		<td>${5:February}</td>
+		<td>${6:£150}</td>
+	</tr>
+</table>
+	]]>
+	</content>
+  <tabTrigger>table</tabTrigger>
+  <description>Blank HTML5 table</description>
+  <scope>text.html.basic</scope>
+</snippet>
