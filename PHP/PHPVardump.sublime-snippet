@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+<![CDATA[<?php var_dump($1); ?>]]>
+	</content>
+	<tabTrigger>phpv</tabTrigger>
+	<description>PHP Vardump</description>
+</snippet>
