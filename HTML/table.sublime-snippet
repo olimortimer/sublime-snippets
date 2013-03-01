@@ -2,18 +2,22 @@
 	<content>
   	<![CDATA[
 <table>
-	<tr>
-		<th>${1:Month}</th>
-		<th>${2:Total}</th>
-	</tr>
-	<tr>
-		<td>${3:January}</td>
-		<td>${4:£100}</td>
-	</tr>
-	<tr>
-		<td>${5:February}</td>
-		<td>${6:£150}</td>
-	</tr>
+	<thead>
+		<tr>
+			<th>${1:Month}</th>
+			<th>${2:Total}</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>${3:January}</td>
+			<td>${4:£100}</td>
+		</tr>
+		<tr>
+			<td>${5:February}</td>
+			<td>${6:£150}</td>
+		</tr>
+	</tbody>
 </table>
 	]]>
 	</content>
