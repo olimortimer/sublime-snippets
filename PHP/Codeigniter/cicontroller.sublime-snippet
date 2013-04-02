@@ -5,17 +5,16 @@
 
 class ${1:class_name} extends MY_Controller {
 
-	function __construct()
-	{
+	public function __construct() {
 		parent::__construct();
 	}
-		
-	function index()
-	{
-		${0}
+
+	public function index() {
+		${2:return true}
 	}
+
 }
 ]]></content>
-<tabTrigger>cicontroller</tabTrigger>
+<tabTrigger>cicont</tabTrigger>
 <description>CI Controller</description>
 </snippet>

@@ -4,15 +4,14 @@
 
 class ${1:class_name} extends MY_Model {
 
-	function __construct()
-	{
+	public function __construct() {
 		parent::__construct();
 	}
-		
-	function ${2:function_name}()
-	{
-		${0}
+
+	public function ${2:function_name}() {
+		${3:return true}
 	}
+
 }
 ]]></content>
 <tabTrigger>cimodel</tabTrigger>
