@@ -2,9 +2,9 @@
 	<content>
 <![CDATA[
 
-	echo "<pre>";
-	print_r(${1:func_get_args()});
-	echo "</pre>";
+echo "<pre>";
+print_r($1);
+echo "</pre>";
 
 ]]>
 	</content>
