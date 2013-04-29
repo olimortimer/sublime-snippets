@@ -4,8 +4,8 @@
 <!DOCTYPE html>
 <!--[if lte IE 7]><html class="no-js ie7 oldie ie"><![endif]-->
 <!--[if IE 8]><html class="no-js ie8 oldie ie"><![endif]-->
-<!--[if IE 9]><html class="no-js ie9 ie"><![endif]-->
-<!--[if gt IE 9]><!--><html class="no-js"><!--<![endif]-->
+<!--[if IE 9]><html class="no-js ie9 oldie ie"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js ie"><!--<![endif]-->
 <head>
 	<meta charset="utf-8">
 	<title>$1</title>
