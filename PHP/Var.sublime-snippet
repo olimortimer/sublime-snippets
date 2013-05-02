@@ -2,9 +2,9 @@
 	<content>
 <![CDATA[
 
-echo "<pre>";
+echo '<pre>';
 print_r($1);
-echo "</pre>";
+echo '</pre>';
 
 ]]>
 	</content>
