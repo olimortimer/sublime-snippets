@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->benchmark->mark('${1:end}');
+]]></content>
+<tabTrigger>cibenche</tabTrigger>
+<description>CI Benchmark End</description>
+</snippet>
