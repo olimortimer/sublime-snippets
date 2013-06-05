@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[chromephp($1, 'groupcollapsed');]]>
+	</content>
+	<tabTrigger>cpgc</tabTrigger>
+	<description>ChromePhp Group Collapsed</description>
+	<scope>source.php</scope>
+</snippet>

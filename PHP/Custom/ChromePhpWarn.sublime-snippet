@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[chromephp($1, 'warn');]]>
+	</content>
+	<tabTrigger>cpw</tabTrigger>
+	<description>ChromePhp Warn</description>
+	<scope>source.php</scope>
+</snippet>

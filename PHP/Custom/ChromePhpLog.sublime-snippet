@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[chromephp($1);]]>
+	</content>
+	<tabTrigger>cp</tabTrigger>
+	<description>ChromePhp Log</description>
+	<scope>source.php</scope>
+</snippet>

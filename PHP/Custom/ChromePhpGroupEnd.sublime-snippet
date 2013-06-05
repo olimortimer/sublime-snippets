@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[chromephp('groupend');]]>
+	</content>
+	<tabTrigger>cpge</tabTrigger>
+	<description>ChromePhp Group End</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[chromephp($1, 'error');]]>
+	</content>
+	<tabTrigger>cpe</tabTrigger>
+	<description>ChromePhp Error</description>
+	<scope>source.php</scope>
+</snippet>

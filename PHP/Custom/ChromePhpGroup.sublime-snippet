@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[chromephp($1, 'group');]]>
+	</content>
+	<tabTrigger>cpg</tabTrigger>
+	<description>ChromePhp Group</description>
+	<scope>source.php</scope>
+</snippet>
