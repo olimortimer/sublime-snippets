@@ -9,7 +9,7 @@
 	<script>window.jQuery.ui || document.write('<script src="js/jquery-ui-${2:1.10.3}.min.js"><\/script>')</script>
 
 
-	<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/${2:1.10.3}/themes/base/jquery-ui.css">
+	<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/${2:1.10.3}/themes/smoothness/jquery-ui.css">
 
 	<div class="ui-helper-hidden"></div>
 
