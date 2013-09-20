@@ -9,7 +9,7 @@ class ${1:class_name} extends MY_Model {
 	}
 
 	public function ${2:function_name}() {
-		${3:return true}
+		${3:return true};
 	}
 
 }
