@@ -10,7 +10,7 @@ class ${1:class_name} extends MY_Controller {
 	}
 
 	public function index() {
-		${2:return true}
+		${2:return true};
 	}
 
 }
