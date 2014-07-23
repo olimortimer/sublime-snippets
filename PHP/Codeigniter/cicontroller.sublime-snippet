@@ -3,14 +3,14 @@
 	<content><![CDATA[
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class ${1:class_name} extends MY_Controller {
+class ${1:class_name} extends ${2:MY_Controller} {
 
 	public function __construct() {
 		parent::__construct();
 	}
 
 	public function index() {
-		${2:return true};
+		${3:return true};
 	}
 
 }
