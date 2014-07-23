@@ -24,6 +24,24 @@ Some custom snippets I find useful
 	<td>Create jQuery blank $(document).ready function</td></tr>
 </table>
 
+### Codeigniter snippets
+<table>
+	<tr><th>Tab trigger</th>
+	<th>Description</th></tr>
+	<tr><td>cicont</td>
+	<td>New CI Controller</td></tr>
+	<tr><td>cimodel</td>
+	<td>New CI Model</td></tr>
+	<tr><td>cilang</td>
+	<td>CI Lang Line</td></tr>
+	<tr><td>cibenchs</td>
+	<td>CI Benchmark Start</td></tr>
+	<tr><td>cibenche</td>
+	<td>CI Benchmark End</td></tr>
+	<tr><td>cibencht</td>
+	<td>CI Benchmark Total</td></tr>
+</table>
+
 ## Installation
 - To install one snippet: drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
 - To install all snippets: drop the entire directories "html" and "javascript" in [Sublime Text 2 installation directory]/Packages/User/.
