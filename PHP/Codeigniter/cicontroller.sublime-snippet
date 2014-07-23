@@ -9,8 +9,8 @@ class ${1:class_name} extends ${2:MY_Controller} {
 		parent::__construct();
 	}
 
-	public function index() {
-		${3:return true};
+	public function ${3:index}() {
+		${4:return true};
 	}
 
 }
