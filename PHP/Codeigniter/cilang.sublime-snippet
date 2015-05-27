@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<?php echo \$this->lang->line('$1'); ?>
+<?php echo lang('$1'); ?>
 ]]></content>
 <tabTrigger>cilang</tabTrigger>
 <description>CI Language Line</description>
