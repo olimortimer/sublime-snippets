@@ -1,4 +1,4 @@
-# Sublime Text 2 Snippets
+# Sublime Text 3 Snippets
 
 Some custom snippets I find useful
 
@@ -43,5 +43,5 @@ Some custom snippets I find useful
 </table>
 
 ## Installation
-- To install one snippet: drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
-- To install all snippets: drop the entire directories "html" and "javascript" in [Sublime Text 2 installation directory]/Packages/User/.
+- To install one snippet: drop the snippet in directory '~/Library/Application Support/Sublime Text 3/Packages/User'
+- To install all snippets: drop the entire directories "html" and "javascript" in '~/Library/Application Support/Sublime Text 3/Packages/User'
