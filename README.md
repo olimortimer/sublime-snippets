@@ -45,3 +45,8 @@ Some custom snippets I find useful
 ## Installation
 - To install one snippet: drop the snippet in directory '~/Library/Application Support/Sublime Text 3/Packages/User'
 - To install all snippets: drop the entire directories "html" and "javascript" in '~/Library/Application Support/Sublime Text 3/Packages/User'
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/olimortimer/sublime-snippets/badge.svg?style=beer-square)](https://beerpay.io/olimortimer/sublime-snippets)  [![Beerpay](https://beerpay.io/olimortimer/sublime-snippets/make-wish.svg?style=flat-square)](https://beerpay.io/olimortimer/sublime-snippets?focus=wish)
